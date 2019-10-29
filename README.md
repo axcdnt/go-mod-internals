@@ -37,3 +37,10 @@ func main() {
 ```
 
 For more details, please check [Go 1.13](https://golang.org/doc/go1.13#modules).
+
+## Docker
+
+After a person asked on Gophers Slack how it works with Docker I decided to try.
+For the app using the lib, all you have to do is vendorize it:
+
+`go mod vendor`
