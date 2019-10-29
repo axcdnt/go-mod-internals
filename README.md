@@ -1,7 +1,7 @@
 This repo is _merely_ a function, exported as it was a library. Its main purpose is to explore Go modules internals.
 Modules is the most [recent](https://blog.golang.org/using-go-modules) way of managing dependencies in Go. From version 1.13+ modules became the default.
 
-This repo was first made private. Now it's public so you can use it to learn more. I hope it works for your private repos too. I believe there are different ways to solve this problem. :)
+I first created it private and made it public so you may learn from it. I hope it works for your private repos too. I believe there are different ways to solve this problem. :)
 
 ## Resolving private dependencies
 
